@@ -1,4 +1,5 @@
 # solana-coding-bootcamp
+![Solana Coding Bootcamp](./images/solana_banner.jpg)
 
 ## Description
 
